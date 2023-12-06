@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    font-family:'Roboto';
+    background-color: #F0F0F0;
+}
+li{
+    list-style: none;
+}
+body, ul, li, a, p{
+    list-style: none;
+    display: block;
+    text-decoration: none;
+}
+p{
+    font-family:'Roboto';
+}
